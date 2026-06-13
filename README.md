@@ -23,3 +23,12 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Deeper Dive into GitHub Actions (Part1): Event, Jobs
 - Lab 2b: Using GitHub Actions - Part2
 - Deeper Dive into GitHub Actions (Part2): Runner, Service, Step, Action
+
+## Module 3: Continuous Delivery (CD)
+### Understanding Continuous Delivery
+- Continuous Delivery
+- What Is Continuous Delivery (CD)?
+- Continuous Delivery Key Principles
+- Continuous Delivery Practices 
+- Tools of Continuous Delivery (CD)
+
