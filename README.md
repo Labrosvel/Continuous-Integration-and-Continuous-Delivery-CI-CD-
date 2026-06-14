@@ -32,7 +32,7 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Continuous Delivery Practices 
 - Tools of Continuous Delivery (CD)
 ### Implementing Pipelines with Tekton
-- Introduction to Tekton and Pipelines
+- Introduction to Tekton and Pipelines (Event, Trigger, Pipeline, Task, Step and Physical Building Blocks)
 - Building a Tekton Pipeline
 - Lab 3a: Building a Tekton Pipeline
 - Creating Tekton Triggers
