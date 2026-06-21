@@ -44,4 +44,12 @@ https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci
 - Building an Image
 - Lab 3e: Hands-on Lab: Building an Image
 - Deploying to Kubernetes 
-- Lab 3f: Deploy to Kubernetes/OpenShift 
+- Lab 3f: Deploy to Kubernetes/OpenShift
+
+## Module 4: Explore DevOps Pipeline Tools and Best Practices
+- Introduction to DevOps and GitOps with OpenShift
+- Components of DevOps Pipeline
+- CI/CD with OpenShift Pipelines
+- Lab 4: CI/CD with OpenShift Pipelines
+- Introduction to GitOps
+- GitOps with ArgoCD
